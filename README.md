@@ -2,7 +2,7 @@
 React入門勉強
 
 ### はじめに
-- [node.js](https://nodejs.org/en/download/)をインストールするをインストールする
+- [node.js](https://nodejs.org/en/download/)をインストールする
 
 - [React プラグイン](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)をインストール
 
@@ -24,16 +24,18 @@ http://localhost:7777/
 
 ### React
 #### プロジェクトの基本構造
-[+]dist
-[+]docs
-[+]mock
-[+]node_modules
-[+]src
-[+]tests
-　package.json
-　server.js
-　webpack.config.js
-　
+
+[+]dist    
+[+]docs    
+[+]mock    
+[+]node_modules    
+[+]src    
+[+]tests    
+　package.json    
+　server.js    
+　webpack.config.js    
+
+
  + dist はindex.htmlとコンパイル済みのファイルの置き場
  + docs ドキュメントの置き場
  + mock データのテンプレート置き場
